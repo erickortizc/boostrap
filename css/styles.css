@@ -1,0 +1,41 @@
+body
+{
+    background-color:#37517E; 
+}
+.navizq
+{
+    width: 40%;
+}
+
+.btnget 
+{
+    border-color: aqua;
+    color: white;
+
+}
+
+.home 
+{
+ color: black;
+}
+.part1
+{
+    color: aliceblue;
+}
+.text-gray 
+{
+    color: rgb(184, 179, 179);
+}
+footer
+{
+    background-color: #F3F5F9;
+}
+.patro img 
+{
+    width: 100px;
+    width: 100px;
+    -webkit-filter: grayscale(1); /* Webkit */
+    filter: gray; /* IE6-9 */
+    filter: grayscale(1); /* W3C */
+
+}
